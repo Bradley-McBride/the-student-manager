@@ -1,0 +1,23 @@
+[
+  {
+    "id": 7,
+    "firstName": "John",
+    "lastName": "Doe",
+    "idNumber": "838383",
+    "grade": "6"
+  },
+  {
+    "id": 8,
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "idNumber": "838384",
+    "grade": "5"
+  },
+  {
+    "id": 9,
+    "firstName": "David",
+    "lastName": "Jones",
+    "idNumber": "838383",
+    "grade": "6"
+  }
+]
